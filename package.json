@@ -2,7 +2,7 @@
   "name": "meal-control-challenge",
   "version": "1.0.0",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "dev": "node --watch src/server.js"
   },
@@ -18,6 +18,8 @@
   "homepage": "https://github.com/ezioborges/-meal-control-challenge#readme",
   "description": "",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "knex": "^3.1.0",
+    "sqlite3": "^5.1.7"
   }
 }
