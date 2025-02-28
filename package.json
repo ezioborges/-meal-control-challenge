@@ -1,0 +1,23 @@
+{
+  "name": "meal-control-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezioborges/-meal-control-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezioborges/-meal-control-challenge/issues"
+  },
+  "homepage": "https://github.com/ezioborges/-meal-control-challenge#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
